@@ -1,0 +1,43 @@
+/*  *//* sm */
+@media (min-width: 640px) {
+   
+ }
+ 
+ /* md */
+ @media (min-width: 768px) {
+
+ }
+ 
+ /* lg */
+ @media (min-width: 1010px) {
+  #home{
+     height: 100vh;
+     padding-top: 0;
+     margin-top: 0;
+  }
+  .bookTableBtn{
+     border-radius: 0 20px 20px 20px;
+
+  }
+   #gallery .container{
+      grid-template-areas: 
+     "pizza steck burger"
+     "pizza-slice steck checken"
+     "pizza-slice fetira kabab"
+     ". fetira ."; 
+     
+}
+  
+ }
+ 
+ /* xl */
+ @media (min-width: 1280px) {
+ }
+ 
+ /*xxl */
+ @media (min-width: 1536px) {}
+ 
+ /* 
+ 
+ 
+ */
